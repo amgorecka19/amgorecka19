@@ -59,6 +59,9 @@ a {
   background-color: #159957;
  //background-image: linear-gradient(120deg, #155799, #159957);
 background-image: linear-gradient(120deg, #000203, #A46F92);
+  //    background-color: RGBA(133, 26, 198, 0.06);
+    background-image: linear-gradient(120deg, #80A5A0, #9C5687);
+}
 
 }
 
